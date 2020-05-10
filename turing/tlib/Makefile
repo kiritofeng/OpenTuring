@@ -15,7 +15,7 @@ EXES                  = tlib.exe
 ### Common settings
 
 #CEXTRA                = -mno-cygwin
-CEXTRA                = -m32
+#CEXTRA                = -m32
 CXXEXTRA              = -mno-cygwin
 RCEXTRA               =
 DEFINES               =
