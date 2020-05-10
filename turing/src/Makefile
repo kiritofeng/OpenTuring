@@ -196,8 +196,8 @@ else
 	LIBSECCOMP=$(LIB32)/libseccomp.a #../../../libseccomp-libseccomp/src/libseccomp.a
 endif
 endif
-override CFLAGS += -m32 -DCONSOLE
-#override CFLAGS += -DCONSOLE
+#override CFLAGS += -m32 -DCONSOLE
+override CFLAGS += -DCONSOLE
 export CFLAGS
 
 ### Tools
