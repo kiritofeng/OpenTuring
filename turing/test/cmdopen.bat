@@ -1,1 +1,0 @@
-turing.exe -run Pic.Blend.t > testsuite\stdout.txt

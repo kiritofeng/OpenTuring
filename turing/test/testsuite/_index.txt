@@ -1,4 +1,0 @@
-#execdir testout
-B HashmapTest1.t
-B RuntimeErrorTest.t
-B SyntaxErrorTest.t
